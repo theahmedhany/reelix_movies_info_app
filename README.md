@@ -38,7 +38,7 @@ Reelix is your ultimate companion for exploring the world of cinema. Whether you
 https://github.com/user-attachments/assets/30ff362c-ebc8-4b53-aa60-b54898f9ded1
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-reelixapp-activity-7287365666603495424-8Vyi?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 
 -----
